@@ -1,11 +1,11 @@
 import java.util.Scanner;
- // check the spring season
+ // print the countdown and print the rocket launched message at the end
 public class RocketLaunchCountDown{
    public static void main(String[] args){
      // create the scanner object
      Scanner input=new Scanner(System.in);
 	 
-	 //take the month(1-12) and day as input
+	 //read the time as input in counter variable
 	 int counter=input.nextInt();
 	  
 	// check if the counter is greater than or equal to 1
