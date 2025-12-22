@@ -27,6 +27,7 @@ public class UniqueCharsFindingProgram {
         int count = 0;
         // Converting to char array to iterate manually
         for (char c : text.toCharArray()) {
+           
             count++;
         }
         return count;
