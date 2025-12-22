@@ -1,4 +1,4 @@
-//Program to create array of characters in two ways
+//Program to show the null pointer exception
 
 import java.util.Scanner;
 import java.util.Arrays;
