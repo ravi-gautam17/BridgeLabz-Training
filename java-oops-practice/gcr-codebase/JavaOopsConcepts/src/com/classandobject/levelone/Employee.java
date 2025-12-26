@@ -20,10 +20,5 @@ class Employee {
 		System.out.println("Employee id: "+id);
 		System.out.println("Employee Salary: "+salary);
 	}
-	
-	public static void main(String[] args) {
-	Employee emp=new Employee("Rohan",1,500000);//calling constructor
-	emp.displayEmployee();//calling the display method
-	}
 
 }
