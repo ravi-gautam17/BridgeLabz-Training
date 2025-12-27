@@ -4,10 +4,10 @@ public class Circle {
 	   private double radius;
 	  
 	   // constructor chaining
-	   Circle(){
+	   public Circle(){
 		   this(5);
 	   };
-	   Circle(double radius){
+	   public Circle(double radius){
 		 this.radius=radius;   
 	   }
 	   // show method implementation
