@@ -6,7 +6,7 @@ public class LibraryBookSystem {
     private double price;
     private boolean availability;
    
-    LibraryBookSystem(String title,String author,double price,boolean availability){
+    public LibraryBookSystem(String title,String author,double price,boolean availability){
  	   this.title=title;
  	   this.author=author;
  	   this.price=price;
