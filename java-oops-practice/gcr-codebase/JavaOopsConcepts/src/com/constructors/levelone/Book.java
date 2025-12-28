@@ -4,10 +4,10 @@ public class Book {
    private String title;
    private  String author;
    private double price;
-   Book(){
+   public Book(){
 	   System.out.println("Book constructor called");
    };
-   Book(String title, String author,double price){
+   public Book(String title, String author,double price){
        this.title=title;
        this.author=author;
        this.price=price;
