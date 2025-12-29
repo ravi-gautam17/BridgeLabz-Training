@@ -12,7 +12,7 @@
 ---
 
 ## 📂 Repository Structure
-
+```
 Bridgelabz Training
 ├── gcr-codebase
 │ ├── arrays
@@ -25,7 +25,7 @@ Bridgelabz Training
 ├── leetcode-codebase
 ├── scenario-based-codebase
 └── README.md
-
+```
 
 - Learned basic Git commands:
   - `git init`
