@@ -1,3 +1,11 @@
+/*
+* Shopkeeper’s Discount Dashboard 🛍️
+* A shopkeeper gives discounts based on total bill:
+* Input item prices in a for-loop.
+* Use if-else for discount logic.
+* Use proper indentation, constants, and comments.
+*/
+
 import java.util.Scanner;
 
 public class ShopkeeperDiscountBoard {
@@ -10,8 +18,7 @@ public class ShopkeeperDiscountBoard {
 		int num=sc.nextInt();
 		System.out.println("===========================================");
 		System.out.println("         Shopkeeper Discount Board         ");
-		System.out.println("===========================================");
-		
+		System.out.println("===========================================");	
 	    
 		double total=0;
 		System.out.print("\tProduct No. \t\t Prices\n");
