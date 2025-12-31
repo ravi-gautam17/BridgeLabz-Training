@@ -14,6 +14,7 @@ public class TrainReservationQueue {
 		// available tickets
 		int available=100;
 		boolean shouldExit=false;
+		
 		while(!shouldExit && available>0){
 		  System.out.println("Choose your option: 1. Book the ticket 2. Show available tickets 3. Exit the application");
 		  int choice=sc.nextInt();
@@ -39,12 +40,8 @@ public class TrainReservationQueue {
                  System.out.println("Invalid choice. Try again ");
 				 		  
 		  }
-          		  
-		  
-		}
-		
-		
-		       
+          		  		  
+		}		       
         sc.close();
     }
 }
