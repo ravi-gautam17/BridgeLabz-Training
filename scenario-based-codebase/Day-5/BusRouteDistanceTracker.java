@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /*
 19. Bus Route Distance Tracker 
-Each stop adds distance.
+ Each stop adds distance.
  Ask if the passenger wants to get off at a stop.
  Use a while-loop with a total distance tracker.
  Exit on user confirmation.
