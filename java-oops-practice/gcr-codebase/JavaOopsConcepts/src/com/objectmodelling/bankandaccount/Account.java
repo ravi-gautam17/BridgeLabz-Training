@@ -4,7 +4,6 @@ package com.objectmodelling.bankandaccount;
 public class Account {
     private int accountNumber;
     private double balance;
-    private Bank bank;
 
     public Account(int accountNumber, double balance, Bank bank) {
         this.accountNumber = accountNumber;
