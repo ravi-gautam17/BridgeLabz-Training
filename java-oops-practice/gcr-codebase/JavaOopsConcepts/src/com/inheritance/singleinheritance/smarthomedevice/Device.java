@@ -1,4 +1,4 @@
-package com.bridgelabz.oops.inheritance.singleinheritance.smarthomedevice;
+package com.inheritance.singleinheritance.smarthomedevice;
 
 public class Device {
 	
