@@ -298,23 +298,23 @@ Strings Day-3
 ## 📅 Day 1 - Solved Three Scenario-based Problems and Leetcode-codebase
 
 **Date:** 29-Dec-2025
--Solved Five Scenario-based Problems  
+-Solved Five Scenario-based Problems
 
 🔗 **Code Link:** <br>
-👉[Day-1 Discount](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-3/ShopkeeperDiscountBoard.java)
-👉[Day-1 Number Guessing](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-3/NumberGuessGame.java)
-👉[Day-1 Parking lot](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-3/ParkingLotSystem.java)
-👉[Day-1 Phone Recharge Simulator](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-3/PhoneRechargeSimulator.java)
+👉[Day-1 Discount](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-3/ShopkeeperDiscountBoard.java)<br>
+👉[Day-1 Number Guessing](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-3/NumberGuessGame.java)<br>
+👉[Day-1 Parking lot](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-3/ParkingLotSystem.java)<br>
+👉[Day-1 Phone Recharge Simulator](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-3/PhoneRechargeSimulator.java)<br>
 👉[Day-1 School Bus Attendance System](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-3/BusAttendanceSystem.java)
 
 --- Leetcode Arrays Day-3
 **Date:** 29-Dec-2025
 
 - Solved Below problems on leetcode
-  - [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
-  - [Plus One](https://leetcode.com/problems/plus-one/description/)
-  - [Unique Paths-2](https://leetcode.com/problems/unique-paths-ii/description/)
-  - [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)
+  - [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)<br>
+  - [Plus One](https://leetcode.com/problems/plus-one/description/) <br>
+  - [Unique Paths-2](https://leetcode.com/problems/unique-paths-ii/description/) <br>
+  - [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)<br>
   - [Spiral Matrix 2](https://leetcode.com/problems/spiral-matrix-ii/)  
     🔗 **Code Link:** <br>
     👉[Code of above Problems](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays/Day-03)
@@ -325,13 +325,13 @@ Strings Day-3
 
 --- Scenario based practice-4
 **Date:** 30-Dec-2025
--Solved Five Scenario-based Problems  
+-Solved Five Scenario-based Problems
 
 🔗 **Code Link:** <br>
-👉[Day-4 Temperature Logger](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-4/TemparatureLogger.java)
-👉[Day-4 Train Booking System](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-4/TrainReservationQueue.java)
-👉[Day-4 Sandeep's Fitness Tracker](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-4/FitnessTracker.java)
-👉[Day-4 Movie Ticket Booking](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-4/MovieTicketBookingApp.java)
+👉[Day-4 Temperature Logger](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-4/TemparatureLogger.java)<br>
+👉[Day-4 Train Booking System](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-4/TrainReservationQueue.java)<br>
+👉[Day-4 Sandeep's Fitness Tracker](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-4/FitnessTracker.java)<br>
+👉[Day-4 Movie Ticket Booking](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-4/MovieTicketBookingApp.java)<br>
 👉[Day-4 LibraryFineCalculator](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-4/LibraryReminderApp.java)
 
 ---
@@ -340,13 +340,13 @@ Strings Day-3
 
 --- Scenario based practice-5
 **Date:** 31-Dec-2025
--Solved Five Scenario-based Problems  
+-Solved Five Scenario-based Problems
 
 🔗 **Code Link:** <br>
-👉[Day-5 Bus Route Distance Tracker](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-5/BusRouteDistanceTracker.java)
-👉[Day-5 Currency Exchange](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-5/CurrencyExchange.java)
-👉[Day-5 Digital Watch](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-5/DigitalWatchSimulation.java)
-👉[Day-5 Lucky Draw](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-5/FestivalLuckyDraw.java)
+👉[Day-5 Bus Route Distance Tracker](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-5/BusRouteDistanceTracker.java)<br>
+👉[Day-5 Currency Exchange](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-5/CurrencyExchange.java)<br>
+👉[Day-5 Digital Watch](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-5/DigitalWatchSimulation.java)<br>
+👉[Day-5 Lucky Draw](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-5/FestivalLuckyDraw.java)<br>
 👉[Day-5 Quiz Application](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-5/OnlineQuizApplication.java)
 
 ---
