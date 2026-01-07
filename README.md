@@ -11,7 +11,7 @@
 - Pushed the codes to GitHub.
 
 🔗 **Code Link:**  
-👉 [Day 1 – Class and objects](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject/levelone)
+👉 [Day 1 – Class and objects](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject/levelone)<br>
 👉 [Day 1 – Class and objects](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject/leveltwo)
 
 ---
@@ -96,10 +96,10 @@
 - Pushed the codes to GitHub.
 
 🔗 **Code Link:**  
--👉 [Day 1 – Hospital Management](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/hospitalmanagementsystem)
--👉 [Day 1 – Vehicle Rental](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day1/VehicleRental)
--👉 [Day 1 – E-Wallet App](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day1/ewalletapp)
--👉 [Day 1 – University course enrollment](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day1/universitycourseenrollment)
+-👉 [Day 1 – Hospital Management](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioBasedPractice/src/com/oops/hospitalmanagement)<br>
+-👉 [Day 1 – Vehicle Rental](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioBasedPractice/src/com/oops/vehiclerentalapplication)<br>
+-👉 [Day 1 – E-Wallet App](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioBasedPractice/src/com/oops/ewalletapplication)<br>
+-👉 [Day 1 – University course enrollment](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioBasedPractice/src/com/oops/universityenrollmentsystem)
 
 ---
 
@@ -111,8 +111,8 @@
 - Pushed the codes to GitHub.
 
 🔗 **Code Link:**  
--👉 [Day 2 – Cabby-Go](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day2/CabbyGo)
--👉 [Day 2 – My Bank](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day2/mybank)
+-👉 [Day 2 – Cabby-Go](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioBasedPractice/src/com/oops/day2)<br>
+-👉 [Day 2 – My Bank](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioBasedPractice/src/com/oops/day2/mybank)
 
 ---
 
@@ -124,8 +124,8 @@
 - Pushed the codes to GitHub.
 
 🔗 **Code Link:**  
--👉 [Day 3 – Campus Connect](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day3/campusconnect)
--👉 [Day 3 – Swift Cart](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day3/swiftcart)
+-👉 [Day 3 – Campus Connect](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioBasedPractice/src/com/oops/day3/campusconnect)<br>
+-👉 [Day 3 – Swift Cart](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioBasedPractice/src/com/oops/day3/swiftcart)
 
 ---
 
@@ -137,7 +137,7 @@
 - Pushed the codes to GitHub.
 
 🔗 **Code Link:**  
--👉 [Day 4 – Edu-Mentor](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day4/edumentor)
--👉 [Day 4 – Fit Track](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day4/fittrack)
--👉 [Day 4 – Pet Pal](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day4/PetPal)
--👉 [Day 4 – Event Ease](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day4/eventease)
+-👉 [Day 4 – Edu-Mentor](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioBasedPractice/src/com/oops/day4/edumentor)<br>
+-👉 [Day 4 – Fit Track](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioBasedPractice/src/com/oops/day4/fittrack)<br>
+-👉 [Day 4 – Pet Pal](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioBasedPractice/src/com/oops/day4/PetPal)<br>
+-👉 [Day 4 – Event Ease](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioBasedPractice/src/com/oops/day4/eventease)
