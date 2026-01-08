@@ -180,7 +180,7 @@ C:.
 
 - Solved Below problems on leetcode
   - [Max Subarray](https://leetcode.com/problems/maximum-subarray/description/)
-  - [Remove Element](https://leetcode.com/problems/remove-element/description/)
+  - [Remove Element](https://leetcode.com/  problems/remove-element/description/)
   - [Next permutation](https://leetcode.com/problems/next-permutation/description/)
   - [Container with most water](https://leetcode.com/problems/container-with-most-water/description)
   - [Remove duplicates from array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)  
