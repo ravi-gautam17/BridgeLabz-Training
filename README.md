@@ -372,10 +372,9 @@ Code link
 
 ---
 
-## ---Day 2 Data Structure Algorithms <br> > Studied Stack, Queue, HashMap and Hashing Function <br> > Solved programming questions based on - Stack, Queue, HashMap and Hashing Function<br> > Pushed the codes to GitHub <br>
-
 ### 🗓 Day 2 – Data Structure Algorithms ( Stack, Queues, Hashmap )
 
+Studied Stack, Queue, HashMap and Hashing Function <br> > Solved programming questions based on - Stack, Queue, HashMap and Hashing Function<br> > Pushed the codes to GitHub <br>
 **Date:** 03-Jan-2026
 
 - Studied Stack, Queue, HashMap and Hashing Function
