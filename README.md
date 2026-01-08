@@ -45,7 +45,7 @@
 - Solved  programming questions based on - Linear Search, Binary Search, FileReader, InputStreamReader, StringBuilder and StringBuffer
 
 🔗 **Code Link:**  
--👉 [Day 4 – Linear and binary search](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/src/com/linearbinarysearch)
+-👉 [Day 4 – Linear and binary search](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dataStructure/src/com/linearbinarysearch)
 
 
 -----
