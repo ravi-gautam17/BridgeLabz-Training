@@ -430,6 +430,6 @@ Code link
 
 --- Day 3 Data Structure Algorithms (Linear And Binary Search) <br> > Studied Linear Search, Binary Search <br> > Solved programming questions based on - Linear Search, Binary Search <br> > Pushed the codes to GitHub <br>
 🔗 **Code Link:** <br>
--👉[Day-4 Linear And Binary Search](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/src/com/linearbinarysearch)<br>
+-👉[Day-4 Linear And Binary Search](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dataStructure/src/com/linearbinarysearch)<br>
 
 ---
