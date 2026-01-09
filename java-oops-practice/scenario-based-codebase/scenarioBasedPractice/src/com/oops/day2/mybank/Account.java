@@ -1,4 +1,4 @@
-package com.day2.mybank;
+package com.oops.day2.mybank;
 
 public abstract class Account implements ITransaction {
 	protected String accountNumber;
