@@ -1,4 +1,4 @@
-package com.day4.edumentor;
+package com.oops.day4.edumentor;
 
 public class User {
 	protected String name;
