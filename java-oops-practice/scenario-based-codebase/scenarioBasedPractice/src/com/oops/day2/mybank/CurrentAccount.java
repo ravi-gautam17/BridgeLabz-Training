@@ -1,4 +1,4 @@
-package com.day2.mybank;
+package com.oops.day2.mybank;
 
 public class CurrentAccount extends Account{
 	
