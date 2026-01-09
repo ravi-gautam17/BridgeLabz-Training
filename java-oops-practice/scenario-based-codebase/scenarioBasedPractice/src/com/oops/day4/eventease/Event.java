@@ -1,4 +1,4 @@
-package com.day4.eventease;
+package com.oops.day4.eventease;
 
 public class Event implements ISchedulable{
 	 private static int counter = 1000; // auto increment
