@@ -1,4 +1,4 @@
-package com.day4.fittrack;
+package com.oops.day4.fittrack;
 
 public class CardioWorkout extends Workout{
 	
