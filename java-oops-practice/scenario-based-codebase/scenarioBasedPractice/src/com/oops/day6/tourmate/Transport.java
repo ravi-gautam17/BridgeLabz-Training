@@ -1,4 +1,4 @@
-package com.day6.tourmate;
+package com.oops.day6.tourmate;
 
 public class Transport {
 	private String mode;
