@@ -1,6 +1,5 @@
 package com.oops.day9.birdsanctuary;
 
-
 public class Main {
     public static void main(String[] args) {
 
