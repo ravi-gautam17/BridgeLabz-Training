@@ -129,7 +129,6 @@ C:.
 **Date:** 22-Dec-2025
 
 - [Learn the string concepts](https://docs.google.com/document/d/1-UXHtzpozVZznDVGYivscpQYEL6-vxOFZWiPpvBH5CE/edit?tab=t.0#heading=h.66yv6crqdvrd)
-
   - Learn about built in methods for strings
   - Why string is immutable
   - Exception handling
@@ -149,11 +148,9 @@ C:.
 **Date:** 23-Dec-2025
 
 - [Extras Problems on String](https://classroom.google.com/c/ODIxNjE3NTg5MDE1/a/ODIxNjE3NTg5MDU3/details)
-
   - Work on concepts like frequency,substring,anagram etc . about string
 
 - [Extras Problems on Built in function](https://classroom.google.com/c/ODIxNjE3NTg5MDE1/a/ODIxNjE3NTg5MDYx/details)
-
   - Ex. includes time packages functions like LocalDate.now(), LocalTime.now() etc.
 
   **Code Link:** <br>
@@ -180,7 +177,7 @@ C:.
 
 - Solved Below problems on leetcode
   - [Max Subarray](https://leetcode.com/problems/maximum-subarray/description/)
-  - [Remove Element](https://leetcode.com/  problems/remove-element/description/)
+  - [Remove Element](https://leetcode.com/ problems/remove-element/description/)
   - [Next permutation](https://leetcode.com/problems/next-permutation/description/)
   - [Container with most water](https://leetcode.com/problems/container-with-most-water/description)
   - [Remove duplicates from array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)  
@@ -428,7 +425,7 @@ Code link
 -👉 [Day 4 – Pet Pal](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioBasedPractice/src/com/oops/day4/PetPal)<br>
 -👉 [Day 4 – Event Ease](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioBasedPractice/src/com/oops/day4/eventease)
 
---- Day 3 Data Structure Algorithms (Linear And Binary Search) <br> > Studied Linear Search, Binary Search <br> > Solved programming questions based on - Linear Search, Binary Search <br> > Pushed the codes to GitHub <br>
+--- Day 3 Data Structure & Algorithms (Linear And Binary Search) <br> > Studied Linear Search, Binary Search <br> > Solved programming questions based on - Linear Search, Binary Search <br> > Pushed the codes to GitHub <br>
 🔗 **Code Link:** <br>
 -👉[Day-4 Linear And Binary Search](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dataStructure/src/com/linearbinarysearch)<br>
 
