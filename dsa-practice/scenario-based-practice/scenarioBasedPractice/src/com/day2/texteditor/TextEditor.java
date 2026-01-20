@@ -1,4 +1,4 @@
-package com.texteditor;
+package com.day2.texteditor;
 
 import java.util.Scanner;
 import java.util.Stack;
