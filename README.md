@@ -152,12 +152,16 @@ Date: 07 Jan 2026--- Scenario based(OOP's) practice-5<br>
 👉 [Day 5 – Loan Buddy](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioBasedPractice/src/com/oops/day5/loanbuddy)<br>
 👉 [Day 5 – Book Baazar](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioBasedPractice/src/com/oops/day5/bookbaazar)<br>
 
+---
+
 Date: 08 Jan 2026--- Scenario based(OOP's) practice-6<br>
 -Solved Two Scenario-based Problems
 
 🔗 **Code Link:** <br>
 👉 [Day 6 – Medi-Store](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioBasedPractice/src/com/oops/day6/medistore)<br>
 👉 [Day 6 – Tour-mate](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioBasedPractice/src/com/oops/day6/tourmate)<br>
+
+---
 
 Date: 09 Jan 2026--- Scenario based(OOP's) practice-7<br>
 -Solved Three Scenario-based Problems
@@ -167,6 +171,8 @@ Date: 09 Jan 2026--- Scenario based(OOP's) practice-7<br>
 👉 [Day 7 – Food-Loop](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioBasedPractice/src/com/oops/day7/foodloop)<br>
 👉 [Day 7 – SkillForge](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioBasedPractice/src/com/oops/day7/skillforge)<br>
 
+---
+
 Date: 12 Jan 2026--- Scenario based(OOP's) practice-8<br>
 -Solved Three Scenario-based Problems  
  🔗 **Code Link:** <br>
@@ -174,17 +180,23 @@ Date: 12 Jan 2026--- Scenario based(OOP's) practice-8<br>
 👉[Day-8 Game Box](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioBasedPractice/src/com/oops/day8/gamebox)<br>
 👉[Day-8 Home Nest](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioBasedPractice/src/com/oops/day8/homenest)<br>
 
+---
+
 Date: 13 Jan 2026--- Scenario based(OOP's) practice-9<br>
 -Solved Two Scenario-based Problems  
  🔗 **Code Link:** <br>
 👉[Day-9 Pay Xpress](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioBasedPractice/src/com/oops/day9/payxpress)<br>
 👉[Day-9 Bird Sanctuary](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioBasedPractice/src/com/oops/day9/birdsanctuary)<br>
 
+---
+
 Date: 17 Jan 2026--- Scenario based(OOP's) practice-10<br>
 -Solved Two Scenario-based Problems  
  🔗 **Code Link:** <br>
 👉[Day-10 Bag N Ball](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioBasedPractice/src/com/oops/day10/BagBallOrganizer)<br>
 👉[Day-10 Line Comparison](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioBasedPractice/src/com/oops/day10/GeoMeasure)<br>
+
+---
 
 Date: 19 Jan 2026--- Scenario based(OOP's) practice-11<br>
 -Solved One Scenario-based Problems  
