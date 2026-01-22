@@ -1,6 +1,6 @@
 # 📘 Week 4 DSA (Java collections)
 
-## 📅 Date: 09 Jan 2026 (Data Structure Algorithms Fundamental) <br>
+## 📅 Date: 09 Jan 2026 (Java Collections Fundamental) <br>
 
 > Studied Introduction to Generics, Type Parameters, Generic Classes, Generic Methods, Bounded Type Parameters, Wildcards<br>
 > Solved programming questions based on Generics<br>
