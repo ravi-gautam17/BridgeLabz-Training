@@ -158,3 +158,14 @@ Date: 20 Jan 2026 <br>
 👉[Day-8 Movie Time](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-practice/scenarioBasedPractice/src/com/day8/movietime)<br>
 
 ---
+
+### 🗓 Day 9 – Data Structure Algorithms ( Scenario-based practice )
+
+Date: 21 Jan 2026 <br>
+-Solved Two Scenario-based Problems
+🔗 **Code Link:** <br>
+👉[Day-9 Tailor Shop](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-practice/scenarioBasedPractice/src/com/day9/tailorshop)<br>
+👉[Day-8 MedWarehouse](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-practice/scenarioBasedPractice/src/com/day9/medwarehouse)<br>
+
+
+---
