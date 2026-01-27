@@ -1,6 +1,9 @@
-package junit.AdvancedJunitTesting.userregistration;
+package junit.test;
 
 import org.junit.jupiter.api.Test;
+
+import junit.AdvancedJunitTesting.userregistration.UserRegistration;
+
 import org.junit.jupiter.api.DisplayName;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -13,8 +16,8 @@ class TestUserRegistration {
     @DisplayName("Should register user with valid inputs")
     void testValidUserRegistration() {
         assertTrue(registration.registerUser(
-                "Nageshwar",
-                "nageshwar@example.com",
+                "Ravi",
+                "ravi@example.com",
                 "secret123"
         ));
     }
