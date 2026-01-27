@@ -1,6 +1,9 @@
-package junit.AdvancedJunitTesting.temperatureConverter;
+package junit.test;
 
 import org.junit.jupiter.api.Test;
+
+import junit.AdvancedJunitTesting.temperatureConverter.TemperatureConverter;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 public class TestTemperatureConverter {
