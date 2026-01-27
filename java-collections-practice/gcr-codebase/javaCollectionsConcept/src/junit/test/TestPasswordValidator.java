@@ -1,8 +1,11 @@
-package junit.AdvancedJunitTesting.passwordvalidator;
+package junit.test;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
+
+import junit.AdvancedJunitTesting.passwordvalidator.PasswordValidator;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 public class TestPasswordValidator {
