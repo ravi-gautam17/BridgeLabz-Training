@@ -1,10 +1,13 @@
-package junit.BasicJunitTesting.StringUtility;
+package junit.test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
+
+import junit.BasicJunitTesting.StringUtility.StringUtils;
+
 import org.junit.jupiter.api.AfterAll;
 
 class TestString {
