@@ -1,4 +1,4 @@
-package junit.BasicJunitTesting.jdbcConnection;
+package junit.test;
 
 import java.sql.Connection;
 import java.sql.Statement;
