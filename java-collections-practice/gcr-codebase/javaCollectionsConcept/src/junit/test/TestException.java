@@ -1,6 +1,9 @@
-package junit.BasicJunitTesting.testexception;
+package junit.test;
 
 import org.junit.jupiter.api.Test;
+
+import junit.BasicJunitTesting.testexception.Division;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 
