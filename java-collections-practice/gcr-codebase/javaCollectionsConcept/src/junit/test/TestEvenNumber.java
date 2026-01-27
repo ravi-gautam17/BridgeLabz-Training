@@ -1,8 +1,11 @@
-package junit.BasicJunitTesting.perameterizedtest;
+package junit.test;
 
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
+
+import junit.BasicJunitTesting.perameterizedtest.CheckEven;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 public class TestEvenNumber {
