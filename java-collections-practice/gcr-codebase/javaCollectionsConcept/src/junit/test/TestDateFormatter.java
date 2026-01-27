@@ -1,6 +1,9 @@
-package junit.AdvancedJunitTesting.dateformatter;
+package junit.test;
 
 import org.junit.jupiter.api.Test;
+
+import junit.AdvancedJunitTesting.dateformatter.DateFormatter;
+
 import org.junit.jupiter.api.DisplayName;
 import java.time.format.DateTimeParseException;
 import static org.junit.jupiter.api.Assertions.*;
