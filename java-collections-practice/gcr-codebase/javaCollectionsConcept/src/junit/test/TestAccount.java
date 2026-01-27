@@ -1,6 +1,9 @@
-package junit.AdvancedJunitTesting.bankAccount;
+package junit.test;
 
 import org.junit.jupiter.api.*;
+
+import junit.AdvancedJunitTesting.bankAccount.BankAccount;
+import junit.AdvancedJunitTesting.bankAccount.InsuffiecientBalanceException;
 
 import static org.junit.jupiter.api.Assertions.*;
 
