@@ -1,10 +1,12 @@
-package junit.BasicJunitTesting.performanceTesting;
+package junit.test;
 
 import java.util.concurrent.TimeUnit;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Timeout;
+
+import junit.BasicJunitTesting.performanceTesting.PerformanceTest;
 
 public class PerformanceTestingDemo {
 	
