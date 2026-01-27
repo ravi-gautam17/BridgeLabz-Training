@@ -1,8 +1,11 @@
-package junit.BasicJunitTesting.listmanager;
+package junit.test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
+
+import junit.BasicJunitTesting.listmanager.ListManager;
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Assertions;
 
