@@ -388,22 +388,21 @@ JSON Data Handling
 
 ### Branch Structure
 
-| Week | Branch Name                 | Focus Area                          | Status      |
-| ---- | --------------------------- | ----------------------------------- | ----------- |
-| 1    | `core-java-practice`        | Java Fundamentals                   | ✅ Completed |
-| 2    | `java-oops-practice`        | Object-Oriented Programming         | ✅ Completed |
-| 3    | `java-dsa-practice`         | Data Structures & Algorithms        | ✅ Completed |
-| 4    | `java-collections-practice` | Collections in Java                 | ✅ Completed |
-| 5    | `java-iostreams-practice`   | File Handling & I/O Streams in Java | ⏳ Ongoing   |
-
+| Week | Branch Name                  | Focus Area                          | Status       |
+| ---- | ---------------------------- | ----------------------------------- | ------------ |
+| 1    | `core-java-practice`         | Java Fundamentals                   | ✅ Completed |
+| 2    | `java-oops-practice`         | Object-Oriented Programming         | ✅ Completed |
+| 3    | `java-dsa-practice`          | Data Structures & Algorithms        | ✅ Completed |
+| 4    | `java-collections-practice`  | Collections in Java                 | ✅ Completed |
+| 5    | `java-iostreams-practice`    | File Handling & I/O Streams in Java | ✅ Completed |
+| 6    | `java8-programming-practice` | Java 8 features and concepts        | ⏳ Ongoing   |
 
 ### Quick Access Links
 
-|                                         📂 **Week 1: Core Java**                                        |                                            📂 **Week 2: OOP**                                           |                                         📂 **Week 3: DSA**                                        |                                           📂 **Week 4: Collections**                                           |                                           📂 **Week 5: IO Streams**                                          |
+|                                        📂 **Week 1: Core Java**                                         |                                           📂 **Week 2: OOP**                                            |                                        📂 **Week 3: DSA**                                         |                                           📂 **Week 4: Collections**                                           |                                          📂 **Week 5: IO Streams**                                           |
 | :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
 |       [View Branch](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/core-java-practice)       |       [View Branch](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice)       |       [View Branch](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/dsa-practice)       |       [View Branch](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-collections-practice)       |       [View Branch](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-iostreams-practice)       |
 | [Documentation](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/README.md) | [Documentation](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/java-oops-practice/README.md) | [Documentation](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/dsa-practice/README.md) | [Documentation](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/java-collections-practice/README.md) | [Documentation](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/java-iostreams-practice/README.md) |
-
 
 ---
 
