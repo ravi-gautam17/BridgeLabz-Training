@@ -289,60 +289,91 @@ Training Repository/
 
 ### Technical Competencies
 
-<table>
-<tr>
-<td width="25%">
+<table> <tr> <td width="20%">
 
-**Core Java**
+Core Java
 
-- Variables & Data Types
-- Control Flow & Loops
-- Arrays & Strings
-- Methods & Functions
-- Exception Handling
-- File I/O Operations
-- Regular Expressions
+Variables & Data Types
 
-</td>
-<td width="25%">
+Control Flow & Loops
 
-**Object-Oriented Programming**
+Arrays & Strings
 
-- Encapsulation
-- Inheritance
-- Polymorphism
-- Abstraction
-- UML Modeling
-- Design Patterns
+Methods & Functions
 
-</td>
-<td width="25%">
+Exception Handling
 
-**Data Structures & Algorithms**
+File I/O Operations
 
-- LinkedList, Stack, Queue
-- HashMap, HashSet
-- Sorting Algorithms
-- Searching Techniques
-- Complexity Analysis
-- Problem Solving
+Regular Expressions
 
-</td>
-<td width="25%">
+</td> <td width="20%">
 
-**Collections & Advanced Java**
+Object-Oriented Programming
 
-- List (ArrayList, LinkedList)
-- Set (HashSet, TreeSet)
-- Map (HashMap, TreeMap)
-- Generics
-- Streams API
-- JUnit Testing
-- Lambda Expressions
+Encapsulation
 
-</td>
-</tr>
-</table>
+Inheritance
+
+Polymorphism
+
+Abstraction
+
+UML Modeling
+
+Design Patterns
+
+</td> <td width="20%">
+
+Data Structures & Algorithms
+
+LinkedList, Stack, Queue
+
+HashMap, HashSet
+
+Sorting Algorithms
+
+Searching Techniques
+
+Complexity Analysis
+
+Problem Solving
+
+</td> <td width="20%">
+
+Collections & Advanced Java
+
+List (ArrayList, LinkedList)
+
+Set (HashSet, TreeSet)
+
+Map (HashMap, TreeMap)
+
+Generics
+
+Streams API
+
+JUnit Testing
+
+Lambda Expressions
+
+</td> <td width="20%">
+
+Java I/O Streams
+
+Byte & Character Streams
+
+Buffered I/O
+
+File Handling (NIO & IO)
+
+Object Serialization
+
+CSV File Handling
+
+JSON Data Handling
+
+</td> </tr> </table>
 ### Professional Skills
 
 - ✅ **Version Control:** Git & GitHub workflow
@@ -357,23 +388,22 @@ Training Repository/
 
 ### Branch Structure
 
-| Week | Branch Name                 | Focus Area                   | Status       |
-| ---- | --------------------------- | ---------------------------- | ------------ |
-| 1    | `core-java-practice`        | Java Fundamentals            | ✅ Completed |
-| 2    | `java-oops-practice`        | Object-Oriented Programming  | ✅ Completed |
-| 3    | `java-dsa-practice`         | Data Structures & Algorithms | ✅ Completed |
-| 4    | `java-collections-practice` | Collections in Java          | Ongoing      |
+| Week | Branch Name                 | Focus Area                          | Status      |
+| ---- | --------------------------- | ----------------------------------- | ----------- |
+| 1    | `core-java-practice`        | Java Fundamentals                   | ✅ Completed |
+| 2    | `java-oops-practice`        | Object-Oriented Programming         | ✅ Completed |
+| 3    | `java-dsa-practice`         | Data Structures & Algorithms        | ✅ Completed |
+| 4    | `java-collections-practice` | Collections in Java                 | ✅ Completed |
+| 5    | `java-iostreams-practice`   | File Handling & I/O Streams in Java | ⏳ Ongoing   |
+
 
 ### Quick Access Links
 
-<div align="center">
+|                                         📂 **Week 1: Core Java**                                        |                                            📂 **Week 2: OOP**                                           |                                         📂 **Week 3: DSA**                                        |                                           📂 **Week 4: Collections**                                           |                                           📂 **Week 5: IO Streams**                                          |
+| :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
+|       [View Branch](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/core-java-practice)       |       [View Branch](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice)       |       [View Branch](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/dsa-practice)       |       [View Branch](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-collections-practice)       |       [View Branch](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-iostreams-practice)       |
+| [Documentation](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/README.md) | [Documentation](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/java-oops-practice/README.md) | [Documentation](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/dsa-practice/README.md) | [Documentation](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/java-collections-practice/README.md) | [Documentation](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/java-iostreams-practice/README.md) |
 
-|                                        📂 **Week 1: Core Java**                                         |                                           📂 **Week 2: OOP**                                            |                                        📂 **Week 3: DSA**                                         |                                           📂 **Week 4: Collections**                                           |
-| :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
-|       [View Branch](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/core-java-practice)       |       [View Branch](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice)       |       [View Branch](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/dsa-practice)       |       [View Branch](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-collections-practice)       |
-| [Documentation](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/README.md) | [Documentation](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/java-oops-practice/README.md) | [Documentation](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/dsa-practice/README.md) | [Documentation](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/java-collections-practice/README.md) |
-
-</div>
 
 ---
 
@@ -388,9 +418,9 @@ Training Repository/
 │                                                         │
 │  📅  Duration              Dec 2025 - Ongoing           │
 │  💻  Projects Built        50+ Applications             │
-│  🧩  LeetCode Solved       17+ Problems                 │
+│  🧩  LeetCode Solved       30+ Problems                 │
 │  📚  Topics Covered        25+ Core Concepts            │
-│  🏆  Current Status        Week 3 In Progress           │
+│  🏆  Current Status        Week 6 In Progress           │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
