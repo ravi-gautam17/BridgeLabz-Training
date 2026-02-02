@@ -395,7 +395,7 @@ JSON Data Handling
 | 3    | `java-dsa-practice`          | Data Structures & Algorithms        | ✅ Completed |
 | 4    | `java-collections-practice`  | Collections in Java                 | ✅ Completed |
 | 5    | `java-iostreams-practice`    | File Handling & I/O Streams in Java | ✅ Completed |
-| 6    | `java8-programming-practice` | Java 8 features and concepts        | ⏳ Ongoing   |
+| 6    | `java8-programming-practice` | Java 8 features and concepts        | ✅ Completed |
 
 ### Quick Access Links
 
@@ -419,7 +419,7 @@ JSON Data Handling
 │  💻  Projects Built        50+ Applications             │
 │  🧩  LeetCode Solved       30+ Problems                 │
 │  📚  Topics Covered        25+ Core Concepts            │
-│  🏆  Current Status        Week 6 In Progress           │
+│  🏆  Current Status        Week 7 In Progress           │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
