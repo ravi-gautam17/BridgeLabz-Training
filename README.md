@@ -336,7 +336,7 @@ BridgeLabz-Training/
 - 📌 [Stacks & Queues](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dataStructure/src/com/stackandqueue)
 
 - 📌 [HashMaps](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dataStructure/src/com/hashmap)
-- 📌 [Sorting Algorithms](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/sorting)
+- 📌 [Sorting Algorithms](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dataStructure/src/com/sorting)
 - 📌 [Searching Algorithms, String & I/O utilities](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dataStructure/src/com/linearbinarysearch)
 - 📌 [Time & Space Complexity Analysis](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dataStructure/src/com/timeComplexity)
 
