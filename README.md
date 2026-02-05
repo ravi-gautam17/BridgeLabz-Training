@@ -1,494 +1,390 @@
-# 🎓 Java Development Training Journey
+# BridgeLabz Training Journey
 
-<div align="center">
+> A comprehensive Java programming training repository covering Core Java fundamentals to Object-Oriented Programming concepts.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Mastered-brightgreen?style=for-the-badge)
-![DSA](https://img.shields.io/badge/DSA-Proficient-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge)
+## Training Overview
 
-**Comprehensive Java Training Program**
-
-_Building Strong Foundations in Software Development_
-
-</div>
+This repository documents my learning journey at BridgeLabz, spanning from **December 15, 2025** to present. The training is organized into structured branches covering different aspects of Java development.
 
 ---
 
-## 📋 Table of Contents
+## Repository Branches
 
-- [Program Overview](#-program-overview)
-- [Training Structure](#-training-structure)
-- [Week-wise Progress](#-week-wise-progress)
-- [Technical Competencies](#technical-competencies)
-- [Repository Navigation](#️-repository-navigation)
+### 🔹 [core-java-practice](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/core-java-practice)
+
+**Week 1** : Fundamentals of Java Programming
+
+### 🔹 [java-oops-practice](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice)
+
+**Week 2** : Object-Oriented Programming
+
+### 🔹 [dsa-practice](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/dsa-practice)
+
+**Week 3** : Data Structures & Algorithms
+
+### 🔹 [java-collections-practice](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-collections-practice)
+
+**Week 4** : Collections Framework in Java
+
+### 🔹 [java-iostreams-practice](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-iostreams-practice)
+
+**Week 5** : Java I/O Streams
+
+### 🔹 [java8-programming-practice](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java8-programming-practice)
+
+**Week 6** : Java 8 Features
+
+### 🔹 [java-design-pattern-practice](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-design-pattern-practice)
+
+**Week 7** : Java Design Principles & Design Patterns
 
 ---
 
-## 🎯 Program Overview
-
-This repository documents my intensive Java training journey, covering essential software engineering fundamentals. The program follows a structured curriculum designed to build strong foundations in programming, object-oriented design, and algorithmic thinking.
-
-**Training Period:** December 2025 - Ongoing  
-**Learning Structure:** 3-Week Intensive Program  
-**Focus Areas:** Core Java • OOP Principles • Data Structures & Algorithms
-
----
-
-## 📚 Training Structure
-
-The program is organized into **three progressive learning phases**, each building upon the previous:
+## 📂 Project Structure
 
 ```
-Training Repository/
+BridgeLabz-Training/
 │
-├── 📌 Week 1: Fundamentals of Java Programming
-│   └── Branch: core-java-practice
+├── 📁 core-java-practice/
+│   ├── 📁 gcr-codebase/
+│   │   ├── 📁 prerequisites/          # Basic Java programs
+│   │   ├── 📁 programming-elements/   # Java programming elements
+│   │   ├── 📁 control-flows/          # If-else, loops, switch
+│   │   ├── 📁 arrays/                 # Array operations
+│   │   ├── 📁 methods/                # Method practices
+│   │   ├── 📁 strings/                # String manipulation
+│   │   └── 📁 Extras/                 # Built-in methods
+|   |
+│   ├── 📁 leet-code-codebase/         # LeetCode solutions
+│   └── 📁 scenario-based-codebase/    # Real-world problems
 │
-├── 📌 Week 2: Object-Oriented Programming
-│   └── Branch: java-oops-practice
-│
-└── 📌 Week 3: Data Structures & Algorithms
-|    └── Branch: java-dsa-practice
-│
-└── 📌 Week 4: Collections Framework in Java
-    └── Branch: java-collections-practice
+├── 📁 java-oops-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 JavaOopsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 classandobject/    # Procedural vs OOP, fundamentals
+│   │               ├── 📁 constructor/       # Constructor, access modifiers
+│   │               ├── 📁 finalandstatic/    # Keywords, instance vs class members
+│   │               ├── 📁 objectmodeling/    # Diagrams, relationships, communication
+│   │               ├── 📁 inheritance/       # Types, method overriding, & access modifiers
+│   │               └── 📁 encapsulation/     # Abstract class, interface, & polymorphism
+|   |
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+|
+├── 📁 dsa-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 DSAConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 linkedlists/       # singly, doubly & circular
+│   │               ├── 📁 stacks/            # Last-In-First-Out (LIFO)
+│   │               ├── 📁 queues/            # First-In-First-Out (FIFO)
+│   │               ├── 📁 hashmaps/          # Key-Value pairs
+│   │               ├── 📁 sorting/           # Sorting algorithms
+│   │               ├── 📁 searching/         # Searching algorithms
+│   │               └── 📁 analysis/          # Runtime Analysis & Big-O Notation
+|   |
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+|
+├── 📁 java-collections-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 CollectionsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 generics/          # Generic classes, methods, wildcards
+│   │               ├── 📁 listinterface/     # List interface and implementations
+│   │               ├── 📁 setinterface/      # Set interface and implementations
+│   │               ├── 📁 queueinterface/    # Queue & Deque interface examples
+│   │               ├── 📁 mapinterface/      # Map interface and implementations
+│   │               ├── 📁 examples/          # Hands-on example programs
+│   │               ├── 📁 streams/           # I/O streams, buffering, and serialization
+│   │               ├── 📁 exceptionhandling/ # Checked, unchecked, custom exceptions, try-with-resources
+│   │               ├── 📁 regex/             # Pattern matching, validation rules, groups & quantifiers
+│   │               ├── 📁 junit/             # Unit testing, assertions, test lifecycle, test cases
+│   │               ├── 📁 reflection/        # Runtime inspection, dynamic invocation, proxies
+│   │               └── 📁 annotations/       # Built-in & custom annotations, processors
+|   |
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+|
+├── 📁 java-iostreams-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 IOStreamsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 csvdata/           # CSV reading/writing, validation, and large-file handling
+│   │               └── 📁 jsondata/          # JSON parsing, schema validation, mapping, conversions
+|   |
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+|
+├── 📁 java8-programming-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 Java8Concepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 lambdas/           # Lambda expressions, functional interfaces, syntax
+│   │               ├── 📁 methodreferences/  # Static, instance, constructor references
+│   │               ├── 📁 interfaces/        # Default methods, static methods, functional interfaces
+│   │               ├── 📁 streams/           # Stream API, intermediate & terminal operations
+│   │               ├── 📁 collectors/        # Grouping, partitioning, summarizing collectors
+│   │               └── 📁 workshop/          # Mini projects & real-world stream problems
+|   |
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+|
+├── 📁 java-design-pattern-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 DesignConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 designprinciples/  # SOLID principles and design patterns
+│   │               └── 📁 multithreading/    # Thread lifecycle, synchronization, concurrency examples
+|   |
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+|
+└── README.md
 ```
 
 ---
 
-## 📖 Week-wise Progress
+## Learning Milestones
 
-### Week 1: Fundamentals of Java Programming
+### **Week 1 : Core Java Programming**
 
-**Branch:** [`core-java-practice`](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/core-java-practice)
+| Day | Date   | Topic                           | Coverage                              |
+| --- | ------ | ------------------------------- | ------------------------------------- |
+| 1   | 15-Dec | Git & GitHub Setup              | Repository setup, Git workflow        |
+| 2   | 16-Dec | Java Basics                     | Basic syntax, prerequisites           |
+| 3   | 17-Dec | Programming Elements            | Data types, operators, input handling |
+| 4   | 18-Dec | Control Flow                    | Conditions, loops, logical problems   |
+| 5   | 19-Dec | Arrays                          | 1D & 2D arrays, traversal             |
+| 6   | 20-Dec | Methods                         | Method declaration, parameters        |
+| 7   | 22-Dec | Strings                         | String creation, methods              |
+| 8   | 23-Dec | Built-in Functions & Exceptions | Math, Random, Date-Time, exceptions   |
 
-**Objective:** Establish strong foundation in Java programming basics
+### **Week 2 : Object-Oriented Programming**
 
-<details>
-<summary><b>📘 Topics Covered</b></summary>
+| Day | Date   | Topic                          | Coverage                               |
+| --- | ------ | ------------------------------ | -------------------------------------- |
+| 9   | 26-Dec | OOP Basics                     | Procedural vs OOP, fundamentals        |
+| 10  | 27-Dec | Constructors & Static Concepts | Constructors, access modifiers, static |
+| 11  | 29-Dec | `this`, `final`, `static`      | Keywords, instance vs class members    |
+| 12  | 30-Dec | Object Modeling                | Diagrams, relationships, communication |
+| 13  | 31-Dec | Inheritance & Types            | Inheritance types and access modifiers |
+| 14  | 01-Jan | Encapsulation & Polymorphism   | Data hiding, polymorphism, interfaces  |
 
-#### Core Fundamentals
+### **Week 3 : Data Structures & Algorithms**
 
-- ✅ Git & GitHub workflow
-- ✅ Variables & Data Types
-- ✅ Operators (Arithmetic, Relational, Logical)
-- ✅ Control Flow Statements (if-else, switch)
-- ✅ Loops (for, while, do-while)
+| Day | Date   | Topic                       | Coverage                               |
+| --- | ------ | --------------------------- | -------------------------------------- |
+| 15  | 02-Jan | DSA Basics & LinkedList     | DSA concepts, LinkedList and its types |
+| 16  | 03-Jan | Stack, Queue & HashMap      | Core operations and basic use cases    |
+| 17  | 05-Jan | Sorting Algorithms          | Sorting algorithms & comparison logic  |
+| 18  | 06-Jan | Searching & I/O utilities   | Linear & Binary Search and FileReader  |
+| 19  | 07-Jan | Runtime Analysis & Big-O    | Time & space complexity analysis       |
+| 20  | 13-Jan | Trees & Binary Search Trees | Basics, types and CRUD operations      |
+| 21  | 15-Jan | Graphs (DFS & BFS)          | Basics and traversal algorithms        |
 
-#### Programming Concepts
+### **Week 4 : Collections Framework in Java**
 
-- ✅ Arrays (1D & 2D)
-- ✅ Methods & Modularity
-- ✅ String Manipulation
-- ✅ Exception Handling Basics
-- ✅ Scanner Input Handling
+| Day | Date   | Topic                    | Coverage                                                            |
+| --- | ------ | ------------------------ | ------------------------------------------------------------------- |
+| 22  | 16-Jan | Java Generics            | Generic classes, methods, type parameters, bounded types, wildcards |
+| 23  | 17-Jan | Collections Framework    | Collection hierarchy, List, Set, Queue, Map, implementations        |
+| 24  | 19-Jan | Java I/O Streams         | Byte, character, buffered, object & bridge streams                  |
+| 25  | 20-Jan | Exception Handling       | Checked, unchecked, custom exceptions, try(resources) & nested      |
+| 26  | 21-Jan | Regex & JUnit Testing    | Pattern matching, validations, groups, unit testing, assertions     |
+| 27  | 22-Jan | Annotations & Reflection | Built-in & custom annotations, runtime inspection, proxies          |
 
-#### Practical Work
+### **Week 5 : Java I/O Streams**
 
-- ✅ LeetCode Problem Solving (17+ problems)
-- ✅ Scenario-Based Applications (10+ projects)
-- ✅ Real-world System Design
+| Day | Date   | Topic                      | Coverage                                                           |
+| --- | ------ | -------------------------- | ------------------------------------------------------------------ |
+| 28  | 23-Jan | CSV Data Handling in Java  | Read/write CSV, validation, large-file processing, dataset merging |
+| 29  | 24-Jan | JSON Data Handling in Java | JSON parsing, POJO mapping, schema validation, CSV to JSON, etc.   |
 
-</details>
+### **Week 6 : Java 8 Features**
 
-**Deliverables:**
+| Day | Date   | Topic                | Coverage                                                         |
+| --- | ------ | -------------------- | ---------------------------------------------------------------- |
+| 30  | 27-Jan | Lambdas & Interfaces | Lambdas, functional interfaces, method references                |
+| 31  | 28-Jan | Streams & Collectors | Stream API, intermediate, terminal, collectors, parallel streams |
 
-- 30+ LeetCode problems solved
-- 10+ scenario-based applications built
-- Clean, well-documented code
+### **Week 7 : Java Design Principles & Design Patterns**
 
-[📂 View Detailed Work →](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/README.md)
-
----
-
-### Week 2: Object-Oriented Programming
-
-**Branch:** [`java-oops-practice`](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice)
-
-**Objective:** Master OOP principles and design patterns
-
-<details>
-<summary><b>📗 Topics Covered</b></summary>
-
-#### OOP Fundamentals
-
-- ✅ Classes & Objects
-- ✅ Constructors (Default, Parameterized, Copy)
-- ✅ Access Modifiers
-- ✅ this, static, final keywords
-
-#### Four Pillars of OOP
-
-- ✅ **Encapsulation** - Data hiding & security
-- ✅ **Inheritance** - Code reusability (Single, Multilevel, Hierarchical, Hybrid)
-- ✅ **Polymorphism** - Method overriding & overloading
-- ✅ **Abstraction** - Interfaces & abstract classes
-
-#### Advanced Topics
-
-- ✅ Object Modeling & UML Diagrams
-- ✅ Object Relationships (Aggregation, Association, Composition)
-- ✅ Design Patterns
-- ✅ Real-world Problem Mapping
-
-</details>
-
-**Deliverables:**
-
-- 30+ scenario-based projects across 15+ industries
-- Healthcare, Finance, E-commerce, Education systems
-- Complete OOP implementation
-
-[📂 View Detailed Work →](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/java-oops-practice/README.md)
+| Day | Date   | Topic                        | Coverage                                                     |
+| --- | ------ | ---------------------------- | ------------------------------------------------------------ |
+| 32  | 31-Jan | Design Principles & Patterns | SOLID, DRY, YAGNI, KISS, GoF patterns, clean code principles |
+| 33  | 02-Feb | Multithreading in Java       | Thread lifecycle, synchronization, concurrency use cases     |
 
 ---
 
-### Week 3: Data Structures & Algorithms
+## Key Concepts Covered
 
-**Branch:** [`java-dsa-practice`](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/dsa-practice)
+### Core Java (core-java-practice)
 
-**Objective:** Build algorithmic thinking and problem-solving skills
+- **Fundamentals**: Variables, data types, operators
+- **Control Structures**: If-else, loops, switch-case
+- **Arrays**: Single & multi-dimensional arrays
+- **Methods**: Parameters, return types, overloading
+- **Strings**: Manipulation, comparisons, exceptions
+- **Problem Solving**: LeetCode challenges, real-world scenarios
 
-<details>
-<summary><b>📕 Topics Covered</b></summary>
+### Object-Oriented Programming (java-oops-practice)
 
-#### Data Structures
+- **Classes & Objects**: Creating and instantiating objects
+- **Encapsulation**: Data hiding and access modifiers
+- **Constructors**: Default, parameterized, overloading
+- **Abstraction**: Interface-based design patterns
+- **Inheritance**: Parent and Chlid relations
+- **Polymorphism**: Method overloading and method overriding
+- **Problem Solving**: LeetCode challenges, real-world scenarios
 
-- ✅ Linked Lists (Singly, Doubly, Circular)
-- ✅ Stacks & Queues (LIFO & FIFO)
-- ✅ HashMap & HashSet
-- ✅ Priority Queues
+### Data Structures & Algorithms (dsa-practice)
 
-#### Algorithms
+- **DSA Fundamentals**: Time & space complexity, basic problem analysis
+- **Linked Lists**: Singly, doubly, and circular linked lists
+- **Stacks**: LIFO principle, push/pop operations, stack applications
+- **Queues**: FIFO principle, enqueue/dequeue operations, queue variants
+- **HashMaps**: Key-value storage, hashing concept, basic operations
+- **Sorting**: Basic sorting algorithms and comparison-based sorting concepts
+- **Searching**: Linear Search and Binary Search algorithms
+- **String Utilities**: `StringBuilder` and `StringBuffer` for mutable strings
+- **File Handling**: Reading input using `FileReader` and `InputStreamReader`
+- **Algorithm Analysis**: Big-O notation, time complexity, space complexity, best, worst, and average case evaluation
+- **Trees & BST**: Tree terminology, traversal techniques, Binary Search Tree operations, and real-world applications
+- **Graphs (DFS & BFS)**: Graph representations, DFS, BFS, and traversal-based problem solving
+- **Problem Solving**: LeetCode challenges, real-world scenarios
 
-- ✅ **Sorting:** Bubble, Selection, Insertion, Merge, Quick, Heap, Counting Sort
-- ✅ **Searching:** Linear Search, Binary Search
-- ✅ Time & Space Complexity Analysis
-- ✅ Recursive vs Iterative approaches
+### Collections Framework (java-collections-practice)
 
-#### Practical Applications
+- **Generics**: Type-safe collections, generic classes and methods, type parameters, bounded types, wildcards, type erasure
+- **Collections Overview**: Purpose and benefits of Java Collections Framework
+- **Hierarchy**: `Iterable`, `Collection`, `List`, `Set`, `Queue`, and `Map`
+- **List Implementations**: `ArrayList`, `LinkedList`, `Vector`
+- **Set Implementations**: `HashSet`, `LinkedHashSet`, `TreeSet`
+- **Map Implementations**: `HashMap`, `LinkedHashMap`, `TreeMap`, `Hashtable`
+- **Queue & Deque**: `PriorityQueue`, `ArrayDeque`
+- **Hands-on Practice**: CRUD, iteration, ordering, and performance examples
+- **I/O Streams**: Byte & character streams, buffering, object serialization, and efficient file handling
+- **Exception Handling**: Checked vs unchecked exceptions, `try-catch-finally`, multiple and nested catch blocks, `throw` vs `throws`, custom exceptions, try-with-resources
+- **Regex & JUnit Testing**: Pattern matching, validation rules, groups, quantifiers, unit tests, assertions, test lifecycle
+- **Reflection**: Runtime class inspection, private member access, dynamic invocation, constructors, proxies, annotation processing
+- **Annotations**: Built-in annotations, meta-annotations, custom annotations, retention policies, processors, framework usage
+- **Problem Solving**: LeetCode challenges, real-world scenarios
 
-- ✅ Algorithm performance comparison
-- ✅ Real-world DSA implementations
-- ✅ Scenario-based problem solving
+### Java I/O Streams (java-iostreams-practice)
 
-</details>
+- **CSV Data Handling**: Reading/writing CSV files, OpenCSV usage, data validation, object mapping, and large-file handling
+- **JSON Data Handling**: JSON creation, parsing, POJO mapping, schema validation, merging datasets, CSV to JSON conversion
 
-**Deliverables:**
+### Java 8 Features (java8-programming-practice)
 
-- 7 Data Structures implemented from scratch
-- 9 Algorithms mastered with analysis
-- 10+ real-world applications
-- Comprehensive complexity analysis
+- **Lambda Expressions**: Functional programming syntax and usage
+- **Functional Interfaces**: `Predicate`, `Function`, `Consumer`, `Supplier`
+- **Method References**: Static, instance, and constructor references
+- **Interface Enhancements**: Default and static methods
+- **Streams API**: Lazy evaluation, pipelines, parallel streams
+- **Collectors**: Grouping, partitioning, summarization, joining
+- **Workshop**: Real-world data processing using streams
+- **Problem Solving**: LeetCode challenges, real-world scenarios
 
-[📂 View Detailed Work →](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/dsa-practice/README.md)
+### Java Design Principles & Design Patterns (java-design-pattern-practice)
+
+- **Design Principles**: SOLID, DRY, KISS, YAGNI, composition over inheritance
+- **Design Patterns**: Singleton, Factory, Observer, Builder
+- **Clean Code Practices**: Object Calisthenics, interface-driven design
+- **Multithreading**: Thread lifecycle, creation using Thread & Runnable, priorities, daemon threads
+- **Synchronization**: Locks, shared resource handling, race-condition prevention
+- **Concurrency Testing**: JUnit validation, timing logs, performance comparison
 
 ---
 
-### Week 4: Collections Framework & Advanced Java Concepts
-
-**Branch:** [`java-collections-practice`](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-collections-practice)
-
-**Objective:** Master Collection Framework and advanced Java concepts
-
-<details>
-<summary><b>📕 Topics Covered</b></summary>
-
-#### Collection Framework
-
-- ✅ Collection Interface Hierarchy
-- ✅ List, Set, Queue, Deque Interfaces
-- ✅ Map Interface & its implementations
-- ✅ Iterator & ListIterator
-- ✅ ArrayList vs LinkedList
-- ✅ HashSet, LinkedHashSet, TreeSet
-- ✅ HashMap, LinkedHashMap, TreeMap
-- ✅ PriorityQueue & ArrayDeque
-- ✅ Thread-safe Collections (ConcurrentHashMap, CopyOnWriteArrayList)
-- ✅ Collections utility class methods
-
-#### Generics
-
-- ✅ Generic Classes & Interfaces
-- ✅ Generic Methods
-- ✅ Bounded Type Parameters
-- ✅ Wildcards (?, extends, super)
-- ✅ Type Erasure & Bridge Methods
-- ✅ Generic Collections
-
-#### Streams API
-
-- ✅ Stream creation & operations
-- ✅ Intermediate operations (filter, map, flatMap)
-- ✅ Terminal operations (collect, reduce, forEach)
-- ✅ Parallel Streams
-- ✅ Stream with Collections
-- ✅ Collectors & Custom Collectors
-
-#### Exception Handling
-
-- ✅ Checked vs Unchecked Exceptions
-- ✅ try-catch-finally blocks
-- ✅ try-with-resources
-- ✅ Custom Exception classes
-- ✅ Exception propagation
-- ✅ Best practices & patterns
-
-#### Regular Expressions (Regex)
-
-- ✅ Pattern & Matcher classes
-- ✅ Regex syntax & metacharacters
-- ✅ String validation & extraction
-- ✅ Search & replace operations
-- ✅ Real-world regex applications
-
-#### JUnit Testing
-
-- ✅ JUnit 5 framework
-- ✅ Test annotations (@Test, @BeforeEach, @AfterEach)
-- ✅ Assertions (assertEquals, assertTrue, assertThrows)
-- ✅ Parameterized tests
-- ✅ Test lifecycle & setup/teardown
-- ✅ Mocking & test doubles
-- ✅ Test coverage & best practices
-
-#### Advanced Concepts
-
-- ✅ Comparable vs Comparator
-- ✅ Functional Interfaces & Lambda expressions
-- ✅ Method References
-- ✅ Optional class
-- ✅ Time complexity analysis
-- ✅ Performance benchmarking
-
-#### Practical Applications
-
-- ✅ Collection selection strategies
-- ✅ Real-world use case implementations
-- ✅ Stream-based data processing
-- ✅ Error handling patterns
-- ✅ Regex for data validation
-- ✅ Test-Driven Development (TDD)
-- ✅ Best practices & common pitfalls
-
-</details>
-
-**Deliverables:**
-
-- 15+ Collection implementations mastered
-- Generic programming patterns applied
-- 25+ Stream API operations practiced
-- Robust exception handling implemented
-- Complex regex patterns for validation
-- Comprehensive JUnit test suites written
-- 30+ practical use cases solved
-- Complete complexity analysis
-
-[📂 View Detailed Work →](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/java-collections-practice/README.md)
-
-### Technical Competencies
-
-<table> <tr> <td width="20%">
-
-Core Java
-
-Variables & Data Types
-
-Control Flow & Loops
-
-Arrays & Strings
-
-Methods & Functions
-
-Exception Handling
-
-File I/O Operations
-
-Regular Expressions
-
-</td> <td width="20%">
-
-Object-Oriented Programming
-
-Encapsulation
-
-Inheritance
-
-Polymorphism
-
-Abstraction
-
-UML Modeling
-
-Design Patterns
-
-</td> <td width="20%">
-
-Data Structures & Algorithms
-
-LinkedList, Stack, Queue
-
-HashMap, HashSet
-
-Sorting Algorithms
-
-Searching Techniques
-
-Complexity Analysis
-
-Problem Solving
-
-</td> <td width="20%">
-
-Collections & Advanced Java
-
-List (ArrayList, LinkedList)
-
-Set (HashSet, TreeSet)
-
-Map (HashMap, TreeMap)
-
-Generics
-
-Streams API
-
-JUnit Testing
-
-Lambda Expressions
-
-</td> <td width="20%">
-
-Java I/O Streams
-
-Byte & Character Streams
-
-Buffered I/O
-
-File Handling (NIO & IO)
-
-Object Serialization
-
-CSV File Handling
-
-JSON Data Handling
-
-</td> </tr> </table>
-### Professional Skills
-
-- ✅ **Version Control:** Git & GitHub workflow
-- ✅ **Problem Solving:** Algorithmic thinking
-- ✅ **System Design:** Scenario-based applications
-- ✅ **Code Quality:** Clean code practices
-- ✅ **Documentation:** Technical writing
+## 🔗 Quick Links
+
+### `core-java-practice` :
+
+- 📌 [Prerequisites](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)
+- 📌 [Control Flows](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
+- 📌 [Programming Elements](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+- 📌 [Arrays](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+- 📌 [Methods](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
+- 📌 [Strings](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
+- 📌 [Built-In Functions](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+- 📌 [LeetCode Solutions](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+- 📌 [Scenario-Based Solutions](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+### `java-oops-practice` :
+
+- 📌 [Classes and Objects](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
+- 📌 [Constructors ](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/levelone)
+- 📌 [this, final, static, instanceof](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfunction)
+- 📌 [Object Modeling & Relations](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)
+- 📌 [Inheritance & Types](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+- 📌 [Encapsulation & Polymorphism](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
+
+- 📌 [Scenario-Based Solutions](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
+
+### `dsa-practice` :
+
+- 📌 [Linked Lists](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dataStructure/src/com/linkedlist)
+- 📌 [Stacks & Queues](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dataStructure/src/com/stackandqueue)
+
+- 📌 [HashMaps](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dataStructure/src/com/hashmap)
+- 📌 [Sorting Algorithms](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/sorting)
+- 📌 [Searching Algorithms, String & I/O utilities](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dataStructure/src/com/linearbinarysearch)
+- 📌 [Time & Space Complexity Analysis](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dataStructure/src/com/timeComplexity)
+
+- 📌 [Scenario-Based Solutions](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-practice/scenarioBasedPractice/src/com)
+
+### `java-collections-practice` :
+
+- 📌 [Generics](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javaCollectionsConcept/src/generics)
+- 📌 [List Interface](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javaCollectionsConcept/src/collections/listinterface)
+- 📌 [Set Interface](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javaCollectionsConcept/src/collections/setinterface)
+- 📌 [Queue Interface](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javaCollectionsConcept/src/collections/queueinterface)
+- 📌 [Map Interface](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javaCollectionsConcept/src/collections/mapinterface)
+- 📌 [Example Problems](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javaCollectionsConcept/src/collections)
+- 📌 [I/O Streams](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javaCollectionsConcept/src/JavaStreams)
+- 📌 [Exception Handling](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javaCollectionsConcept/src/ExceptionHandling)
+- 📌 [Regex - Regular Expressions](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javaCollectionsConcept/src/regex)
+- 📌 [JUnit Testing](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javaCollectionsConcept/src/junit)
+- 📌 [Reflection](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javaCollectionsConcept/src/com/reflection)
+- 📌 [Annotations](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javaCollectionsConcept/src/com/annotations)
+- 📌 [Scenario-Based Solutions](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase)
+
+### `java-iostreams-practice` :
+
+- 📌 [CSV Data Handling](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/iostreamsPractice/src/com/csv)
+- 📌 [JSON Data Handling](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/iostreamsPractice/src/com/json)
+
+### `java8-programming-practice` :
+
+- 📌 [Lambda Expressions](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/src/main/java/lambdaexpressions)
+- 📌 [Method References](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/src/main/java/methodreferences)
+- 📌 [Interfaces](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/src/main/java/functionalinterfaces)
+- 📌 [Streams](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/src/main/java/streamapi)
+- 📌 [Collectors](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/src/main/java/collectors)
+- 📌 [Workshop](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/src/main/java/java8workshop)
+
+### `java-design-pattern-practice` :
+
+- 📌 [Design Principles & Patterns](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/designprinciples)
+- 📌 [Multithreading](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/multithreading)
 
 ---
 
-## 🗂️ Repository Navigation
+## 🎓 Learnings & Best Practices
 
-### Branch Structure
-
-| Week | Branch Name                  | Focus Area                          | Status       |
-| ---- | ---------------------------- | ----------------------------------- | ------------ |
-| 1    | `core-java-practice`         | Java Fundamentals                   | ✅ Completed |
-| 2    | `java-oops-practice`         | Object-Oriented Programming         | ✅ Completed |
-| 3    | `java-dsa-practice`          | Data Structures & Algorithms        | ✅ Completed |
-| 4    | `java-collections-practice`  | Collections in Java                 | ✅ Completed |
-| 5    | `java-iostreams-practice`    | File Handling & I/O Streams in Java | ✅ Completed |
-| 6    | `java8-programming-practice` | Java 8 features and concepts        | ✅ Completed |
-
-### Quick Access Links
-
-|                                        📂 **Week 1: Core Java**                                         |                                           📂 **Week 2: OOP**                                            |                                        📂 **Week 3: DSA**                                         |                                           📂 **Week 4: Collections**                                           |                                          📂 **Week 5: IO Streams**                                           |
-| :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
-|       [View Branch](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/core-java-practice)       |       [View Branch](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-oops-practice)       |       [View Branch](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/dsa-practice)       |       [View Branch](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-collections-practice)       |       [View Branch](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/java-iostreams-practice)       |
-| [Documentation](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/README.md) | [Documentation](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/java-oops-practice/README.md) | [Documentation](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/dsa-practice/README.md) | [Documentation](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/java-collections-practice/README.md) | [Documentation](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/java-iostreams-practice/README.md) |
+- **Code Organization**: Following industrial standards
+- **Naming Conventions**: Camel case, Pascal case and meaningful names
+- **Version Control**: Regular commits with descriptive messages
+- **Problem-Solving**: Breaking complex problems into smaller tasks
+- **Documentation**: Clear comments and README files
 
 ---
-
-## 📊 Progress Summary
-
-<div align="center">
-
-### Current Progress
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  📅  Duration              Dec 2025 - Ongoing           │
-│  💻  Projects Built        50+ Applications             │
-│  🧩  LeetCode Solved       30+ Problems                 │
-│  📚  Topics Covered        25+ Core Concepts            │
-│  🏆  Current Status        Week 7 In Progress           │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-### Learning Path
-
-**Week 1** → Java Syntax & Control Flow → Problem Solving Basics  
-**Week 2** → OOP Design Principles → Real-world Applications  
-**Week 3** → Data Structures → Algorithm Optimization
-
-</div>
-
----
-
-## 💡 Key Accomplishments
-
-### Application Development
-
-- ✅ Built **50+ working applications** across various domains
-- ✅ Implemented **real-world scenarios** (Healthcare, Finance, E-commerce, Education, Gaming)
-- ✅ Created **DSA-powered systems** (Traffic Manager, Call Center, Train Reservation)
-
-### Problem Solving
-
-- ✅ Solved **30+ LeetCode problems** covering Arrays, Strings, Math
-- ✅ Mastered **9 sorting algorithms** with performance analysis
-- ✅ Implemented **7 data structures** from scratch
-
-### Code Quality
-
-- ✅ Followed **clean code principles** throughout
-- ✅ Comprehensive **documentation** for all modules
-- ✅ **Version control** with proper Git workflow
-- ✅ **Modular design** with separation of concerns
-
----
-
-## 📈 Learning Approach
-
-**Training Methodology:**
-
-- Hands-on coding practice
-- Scenario-based problem solving
-- Industry-standard best practices
-- Progressive difficulty levels
-- Regular code reviews and improvements
-
-**Practice Structure:**
-
-- Daily coding sessions
-- Weekly project deliverables
-- Continuous LeetCode practice
-- Real-world application development
-
----
-
-<div align="center">
-
-### 🎯 Training Overview
-
-**This repository demonstrates systematic learning and practical application of Java programming concepts, from fundamentals through advanced data structures and algorithms.**
-
----
-
-**Developer:** Ravi Gautam  
-**GitHub:** [@ravi-gautam17](https://github.com/ravi-gautam17)
-
----
-
-⭐ _"The only way to learn programming is by writing programs."_ - Dennis Ritchie
-
-</div>
